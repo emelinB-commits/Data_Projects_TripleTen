@@ -1,0 +1,36 @@
+Restaurant Analysis (Final Project Project)
+
+I have reviewed the data provided by TripleTen on Restaurants and created a dashboard using Tableau, 
+https://public.tableau.com/app/profile/emelin.benavides/viz/FinalProjectStoryV2/Dashboard2?publish=yes
+
+I have also created a story for my data analysis
+
+
+## Project Overview
+This project analyzes restaurant performance using customer ratings, sales, and pricing data. The goal is to identify key trends and provide actionable recommendations to enhance business operations.
+
+## Tools Used
+-Google Sheets
+- Tableau Public
+
+## Findings and Conclusion
+1. Cuisine Popularity:
+Indian and Chinese Cuisines: These are the most popular cuisines among customers, with the highest number of restaurants offering these options. This indicates a strong customer preference for these types of food.
+2. Geographic Insights:
+Bangalore: The city has the highest density of restaurants, particularly in areas like Indiranagar and Koramangala. This suggests these areas have a high demand for dining options and present opportunities for new restaurant openings.
+3. Restaurant Chain Performance:
+Domino's Pizza: Leads in sales, significantly outperforming other chains. This highlights successful business strategies in pricing, marketing, and customer service that could be emulated by other restaurants.
+4. Customer Demographics:
+Male Customers: Represent a larger portion of the customer base. Targeted marketing strategies to attract more female customers could help balance the customer demographics and increase overall sales.
+5. Menu Optimization:
+Fusion Dishes: Given the popularity of Indian and Chinese cuisines, adding more fusion dishes can attract a broader customer base and cater to diverse tastes.
+6. Learning from Successful Chains:
+
+Effective Strategies: Studying successful chains like Domino's Pizza and Happy Brew Cafe provides valuable insights into effective strategies in pricing, promotions, and customer service. Applying these tactics can improve overall business performance.
+
+I have created a Story that supports my findings and recommendations
+https://public.tableau.com/app/profile/emelin.benavides/viz/FinalProjectStoryV2/Story1?publish=yes
+
+## Contact Information
+
+Emelin Benavides - (emelynpg@gmail.com)
